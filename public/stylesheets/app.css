@@ -1,0 +1,15 @@
+i.icon {
+    font-size: 2em;
+}
+
+i.copyright {
+    font-size: 1em;
+}
+
+.container.main{
+    margin-top: 5.0em;
+}
+
+#delete {
+    display: inline;
+}
